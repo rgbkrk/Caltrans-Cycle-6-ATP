@@ -1,0 +1,2998 @@
+[
+  {
+    "applicationID": "1.",
+    "applicationNumber": "10-Modesto, City of-1",
+    "implementingAgencyName": "Modesto, City of",
+    "projectName": "Encina-Lincoln Bike Path",
+    "receivedDate": "5/19/2022"
+  },
+  {
+    "applicationID": "2.",
+    "applicationNumber": "10-Waterford, City of-1",
+    "implementingAgencyName": "Waterford, City of",
+    "projectName": "Waterford Safe Routes to School Project – Washington Road",
+    "receivedDate": "5/31/2022"
+  },
+  {
+    "applicationID": "3.",
+    "applicationNumber": "12-Santa Ana, City of-11",
+    "implementingAgencyName": "Santa Ana, City of",
+    "projectName": "Lathrop lntermediate_Lowell ES_Martin ES_Pio Pico ES_Franklin ES",
+    "receivedDate": "6/1/2022"
+  },
+  {
+    "applicationID": "4.",
+    "applicationNumber": "12-Santa Ana, City of-3",
+    "implementingAgencyName": "Santa Ana, City of",
+    "projectName": "Safe Mobility Santa Ana",
+    "receivedDate": "6/2/2022"
+  },
+  {
+    "applicationID": "5.",
+    "applicationNumber": "12-Santa Ana, City of-4",
+    "implementingAgencyName": "Santa Ana, City of",
+    "projectName": "Heroes ES_Carver ES_Willard Int_Wilson Safe Routes To School",
+    "receivedDate": "6/2/2022"
+  },
+  {
+    "applicationID": "6.",
+    "applicationNumber": "12-Santa Ana, City of-8",
+    "implementingAgencyName": "Santa Ana, City of",
+    "projectName": "Adams ES_Carr lntermediate_Godinez Fund HS_Harvey ES_Valley HS",
+    "receivedDate": "6/3/2022"
+  },
+  {
+    "applicationID": "7.",
+    "applicationNumber": "12-Santa Ana, City of-13",
+    "implementingAgencyName": "Santa Ana, City of",
+    "projectName": "Orange Avenue Bike Lane and Bicycle Boulevard Project",
+    "receivedDate": "6/4/2022"
+  },
+  {
+    "applicationID": "8.",
+    "applicationNumber": "12-Santa Ana, City of-2",
+    "implementingAgencyName": "Santa Ana, City of",
+    "projectName": "Monroe Elementary and Edison Elementary Safe Routes to School",
+    "receivedDate": "6/4/2022"
+  },
+  {
+    "applicationID": "9.",
+    "applicationNumber": "12-Santa Ana, City of-6",
+    "implementingAgencyName": "Santa Ana, City of",
+    "projectName": "Ross Street Complete Streets",
+    "receivedDate": "6/4/2022"
+  },
+  {
+    "applicationID": "10.",
+    "applicationNumber": "12-Santa Ana, City of-10",
+    "implementingAgencyName": "Santa Ana, City of",
+    "projectName": "Jefferson ES_Thorpe Fundamental_McFadden lnstitute of Technology_Greenville",
+    "receivedDate": "6/5/2022"
+  },
+  {
+    "applicationID": "11.",
+    "applicationNumber": "12-Santa Ana, City of-5",
+    "implementingAgencyName": "Santa Ana, City of",
+    "projectName": "Jackson Elementary and Diamond Elementary SRTS",
+    "receivedDate": "6/6/2022"
+  },
+  {
+    "applicationID": "12.",
+    "applicationNumber": "12-Santa Ana, City of-17",
+    "implementingAgencyName": "Santa Ana, City of",
+    "projectName": "Bishop Street Bicycle Boulevard Project",
+    "receivedDate": "6/6/2022"
+  },
+  {
+    "applicationID": "13.",
+    "applicationNumber": "8-San Bernardino County Transportation Authority (SBCTA)-1",
+    "implementingAgencyName": "San Bernardino County Transportation Authority (SBCTA)",
+    "projectName": "San Bernardino County Safe Routes to Schools Phase III Program",
+    "receivedDate": "6/6/2022"
+  },
+  {
+    "applicationID": "14.",
+    "applicationNumber": "7-Thousand Oaks, City of-2",
+    "implementingAgencyName": "Thousand Oaks, City of",
+    "projectName": "Hillcrest Drive Class IV Bike lanes and Pedestrian Improvements",
+    "receivedDate": "6/7/2022"
+  },
+  {
+    "applicationID": "15.",
+    "applicationNumber": "12-Santa Ana, City of-9",
+    "implementingAgencyName": "Santa Ana, City of",
+    "projectName": "Fairhaven ES_Muir Fundamental ES",
+    "receivedDate": "6/8/2022"
+  },
+  {
+    "applicationID": "16.",
+    "applicationNumber": "4-Orinda, City of-1",
+    "implementingAgencyName": "Orinda, City of",
+    "projectName": "Safe Routes to School - Glorietta Elementary School Crossings Project",
+    "receivedDate": "6/9/2022"
+  },
+  {
+    "applicationID": "17.",
+    "applicationNumber": "12-Santa Ana, City of-15",
+    "implementingAgencyName": "Santa Ana, City of",
+    "projectName": "MacArthur Intermediate and Taft Elementary Safe Routes to School",
+    "receivedDate": "6/9/2022"
+  },
+  {
+    "applicationID": "18.",
+    "applicationNumber": "12-Santa Ana, City of-19",
+    "implementingAgencyName": "Santa Ana, City of",
+    "projectName": "Fitz Int_Heritage ES_Russell ES_Newhope ES",
+    "receivedDate": "6/9/2022"
+  },
+  {
+    "applicationID": "19.",
+    "applicationNumber": "12-Santa Ana, City of-18",
+    "implementingAgencyName": "Santa Ana, City of",
+    "projectName": "Rosita ES_Hazard ES",
+    "receivedDate": "6/9/2022"
+  },
+  {
+    "applicationID": "20.",
+    "applicationNumber": "5-Santa Cruz, City of-2",
+    "implementingAgencyName": "Santa Cruz, City of",
+    "projectName": "Swanton Delaware Multiuse Path",
+    "receivedDate": "6/10/2022"
+  },
+  {
+    "applicationID": "21.",
+    "applicationNumber": "5-California Department of Transportation-1",
+    "implementingAgencyName": "California Department of Transportation",
+    "projectName": "Los Alamos Connected Community Project",
+    "receivedDate": "6/10/2022"
+  },
+  {
+    "applicationID": "22.",
+    "applicationNumber": "12-Santa Ana, City of-12",
+    "implementingAgencyName": "Santa Ana, City of",
+    "projectName": "Madison ES_Roosevelt-Walker Academy_Century HS SRTS",
+    "receivedDate": "6/10/2022"
+  },
+  {
+    "applicationID": "23.",
+    "applicationNumber": "11-Solana Beach, City of-2",
+    "implementingAgencyName": "Solana Beach, City of",
+    "projectName": "Lomas Santa Fe Complete Streets Project, Solana Beach",
+    "receivedDate": "6/10/2022"
+  },
+  {
+    "applicationID": "24.",
+    "applicationNumber": "8-Fontana, City of-3",
+    "implementingAgencyName": "Fontana, City of",
+    "projectName": "San Sevaine Class I Multi-Use Trail: Philadelphia to Slover",
+    "receivedDate": "6/10/2022"
+  },
+  {
+    "applicationID": "25.",
+    "applicationNumber": "12-Santa Ana, City of-7",
+    "implementingAgencyName": "Santa Ana, City of",
+    "projectName": "King ES_Lincoln ES_Monte Vista ES_Griset Academy",
+    "receivedDate": "6/10/2022"
+  },
+  {
+    "applicationID": "26.",
+    "applicationNumber": "3-Winters, City of-1",
+    "implementingAgencyName": "Winters, City of",
+    "projectName": "Winters/El Rio Villas Active Transportation Connection: SR-128/I-505 Over-cross",
+    "receivedDate": "6/10/2022"
+  },
+  {
+    "applicationID": "27.",
+    "applicationNumber": "12-Santa Ana, City of-14",
+    "implementingAgencyName": "Santa Ana, City of",
+    "projectName": "Esqueda ES_Chavez HS_Washington ES_Saddleback HS",
+    "receivedDate": "6/10/2022"
+  },
+  {
+    "applicationID": "28.",
+    "applicationNumber": "4-Sonoma County-1",
+    "implementingAgencyName": "Sonoma County",
+    "projectName": "Moorland Pedestrian and School Access",
+    "receivedDate": "6/10/2022"
+  },
+  {
+    "applicationID": "29.",
+    "applicationNumber": "7-Santa Monica, City of-1",
+    "implementingAgencyName": "Santa Monica, City of",
+    "projectName": "Wilshire Active Transportation Safety Project",
+    "receivedDate": "6/10/2022"
+  },
+  {
+    "applicationID": "30.",
+    "applicationNumber": "5-Santa Cruz County-1",
+    "implementingAgencyName": "Santa Cruz County",
+    "projectName": "Coastal Rail Trail Segments 10 and 11",
+    "receivedDate": "6/11/2022"
+  },
+  {
+    "applicationID": "31.",
+    "applicationNumber": "5-San Luis Obispo Council of Governments-1",
+    "implementingAgencyName": "San Luis Obispo Council of Governments",
+    "projectName": "SLO Regional SRTS \"Kids with Confidence\" Education and Outreach Program",
+    "receivedDate": "6/11/2022"
+  },
+  {
+    "applicationID": "32.",
+    "applicationNumber": "5-Santa Cruz County-4",
+    "implementingAgencyName": "Santa Cruz County",
+    "projectName": "Coastal Rail Trail Segments 10 and 11 Preconstruction",
+    "receivedDate": "6/12/2022"
+  },
+  {
+    "applicationID": "33.",
+    "applicationNumber": "5-Watsonville, City of-1",
+    "implementingAgencyName": "Watsonville, City of",
+    "projectName": "Safe Routes to Downtown Watsonville",
+    "receivedDate": "6/13/2022"
+  },
+  {
+    "applicationID": "34.",
+    "applicationNumber": "12-Santa Ana, City of-16",
+    "implementingAgencyName": "Santa Ana, City of",
+    "projectName": "Mendez lnt_Advance Learning_Santiago ES_Sierra Int SRTS",
+    "receivedDate": "6/13/2022"
+  },
+  {
+    "applicationID": "35.",
+    "applicationNumber": "6-Delano, City of-1",
+    "implementingAgencyName": "Delano, City of",
+    "projectName": "ATP-6 SRTS Sidewalk Gap and Crosswalk Improvement Project",
+    "receivedDate": "6/13/2022"
+  },
+  {
+    "applicationID": "36.",
+    "applicationNumber": "8-Fontana, City of-4",
+    "implementingAgencyName": "Fontana, City of",
+    "projectName": "San Sevaine Class I Multi-Use Trail: Valley to Foothill",
+    "receivedDate": "6/13/2022"
+  },
+  {
+    "applicationID": "37.",
+    "applicationNumber": "12-Anaheim, City of-1",
+    "implementingAgencyName": "Anaheim, City of",
+    "projectName": "Rio Vista Safe Routes to School Project",
+    "receivedDate": "6/13/2022"
+  },
+  {
+    "applicationID": "38.",
+    "applicationNumber": "3-Placer County-1",
+    "implementingAgencyName": "Placer County",
+    "projectName": "SR 89 / Fanny Bridge Community Revitalization Project Complete Streets",
+    "receivedDate": "6/13/2022"
+  },
+  {
+    "applicationID": "39.",
+    "applicationNumber": "11-El Cajon, City of-1",
+    "implementingAgencyName": "El Cajon, City of",
+    "projectName": "Main Street Green Street Phase 2 Roundabout",
+    "receivedDate": "6/13/2022"
+  },
+  {
+    "applicationID": "40.",
+    "applicationNumber": "3-Roseville, City of-1",
+    "implementingAgencyName": "Roseville, City of",
+    "projectName": "Dry Creek Greenway East Multi-Use Trail, Phase 2",
+    "receivedDate": "6/13/2022"
+  },
+  {
+    "applicationID": "41.",
+    "applicationNumber": "5-Santa Cruz, City of-1",
+    "implementingAgencyName": "Santa Cruz, City of",
+    "projectName": "Santa Cruz Rail Trail Segments 8 and 9 Construction",
+    "receivedDate": "6/13/2022"
+  },
+  {
+    "applicationID": "42.",
+    "applicationNumber": "3-Woodland, City of-1",
+    "implementingAgencyName": "Woodland, City of",
+    "projectName": "Woodland Safe Routes to School & ATP Connectivity Project",
+    "receivedDate": "6/13/2022"
+  },
+  {
+    "applicationID": "43.",
+    "applicationNumber": "12-Santa Ana, City of-1",
+    "implementingAgencyName": "Santa Ana, City of",
+    "projectName": "Santa Ana High School and Heninger Elementary School SRTS",
+    "receivedDate": "6/13/2022"
+  },
+  {
+    "applicationID": "44.",
+    "applicationNumber": "7-La Puente, City of-1",
+    "implementingAgencyName": "La Puente, City of",
+    "projectName": "City of La Puente's Safe Routes for Students Improvement Project",
+    "receivedDate": "6/13/2022"
+  },
+  {
+    "applicationID": "45.",
+    "applicationNumber": "8-Adelanto, City of-1",
+    "implementingAgencyName": "Adelanto, City of",
+    "projectName": "Adelanto Safe Routes to School",
+    "receivedDate": "6/13/2022"
+  },
+  {
+    "applicationID": "46.",
+    "applicationNumber": "8-Barstow, City of-1",
+    "implementingAgencyName": "Barstow, City of",
+    "projectName": "Pedestrian, Bicyclist, and Safety Improvements",
+    "receivedDate": "6/13/2022"
+  },
+  {
+    "applicationID": "47.",
+    "applicationNumber": "11-San Diego Association of Governments (SANDAG)-4",
+    "implementingAgencyName": "San Diego Association of Governments (SANDAG)",
+    "projectName": "Uptown Phase 4: Mission Hills to Old Town Bikeway",
+    "receivedDate": "6/13/2022"
+  },
+  {
+    "applicationID": "48.",
+    "applicationNumber": "11-San Diego Association of Governments (SANDAG)-2",
+    "implementingAgencyName": "San Diego Association of Governments (SANDAG)",
+    "projectName": "Central Avenue Bikeway - The Missing Link",
+    "receivedDate": "6/13/2022"
+  },
+  {
+    "applicationID": "49.",
+    "applicationNumber": "11-San Diego Association of Governments (SANDAG)-1",
+    "implementingAgencyName": "San Diego Association of Governments (SANDAG)",
+    "projectName": "Howard Bikeway: Connecting Vibrant San Diego Neighborhoods",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "50.",
+    "applicationNumber": "11-Solana Beach, City of-1",
+    "implementingAgencyName": "Solana Beach, City of",
+    "projectName": "Santa Helena Complete Streets Project",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "51.",
+    "applicationNumber": "12-Santa Ana, City of-20",
+    "implementingAgencyName": "Santa Ana, City of",
+    "projectName": "Memory Lane and Flower Street Bikeway",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "52.",
+    "applicationNumber": "8-Coachella Valley Association of Governments-1",
+    "implementingAgencyName": "Coachella Valley Association of Governments",
+    "projectName": "Coachella Valley Arts & Music Line",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "53.",
+    "applicationNumber": "8-Twentynine Palms, City of-1",
+    "implementingAgencyName": "Twentynine Palms, City of",
+    "projectName": "Sullivan Road/Hatch Road Side Path/Bicycle Lanes",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "54.",
+    "applicationNumber": "8-Desert Hot Springs, City of-3",
+    "implementingAgencyName": "Desert Hot Springs, City of",
+    "projectName": "Desert Hot Springs CV Link Extension Project",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "55.",
+    "applicationNumber": "8-San Bernardino, City of-1",
+    "implementingAgencyName": "San Bernardino, City of",
+    "projectName": "Marshall Elementary Safe Route to School Improvements",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "56.",
+    "applicationNumber": "3-Placer County-2",
+    "implementingAgencyName": "Placer County",
+    "projectName": "Kings Beach Western Approach Project",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "57.",
+    "applicationNumber": "4-Alameda County Transportation Commission-1",
+    "implementingAgencyName": "Alameda County Transportation Commission",
+    "projectName": "East Bay Greenway Multimodal, Phase 1",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "58.",
+    "applicationNumber": "5-San Luis Obispo, City of-1",
+    "implementingAgencyName": "San Luis Obispo, City of",
+    "projectName": "South Higuera Complete Streets Project",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "59.",
+    "applicationNumber": "5-University of California - Santa Cruz-1",
+    "implementingAgencyName": "University of California - Santa Cruz",
+    "projectName": "UCSC \"SlugBikeLife\" Bike Safety and Education Program Phase 2",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "60.",
+    "applicationNumber": "8-Riverside County-2",
+    "implementingAgencyName": "Riverside County",
+    "projectName": "Hemet Area Safe Routes to School Sidewalk Project",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "61.",
+    "applicationNumber": "8-Indio, City of-1",
+    "implementingAgencyName": "Indio, City of",
+    "projectName": "Jewel Community Complete Streets Improvements",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "62.",
+    "applicationNumber": "8-Riverside County-1",
+    "implementingAgencyName": "Riverside County",
+    "projectName": "Mecca-North Shore Community Connector Bike Lanes",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "63.",
+    "applicationNumber": "8-Desert Hot Springs, City of-1",
+    "implementingAgencyName": "Desert Hot Springs, City of",
+    "projectName": "Hacienda Avenue East SRTS Phase II Improvement Project",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "64.",
+    "applicationNumber": "6-Coalinga, City of-1",
+    "implementingAgencyName": "Coalinga, City of",
+    "projectName": "Coalinga Perimeter Trail Interconnect Pacific South and Gregory North",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "65.",
+    "applicationNumber": "4-Alameda County-2",
+    "implementingAgencyName": "Alameda County",
+    "projectName": "Mission Boulevard Safe and Complete Street for Active Transportation",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "66.",
+    "applicationNumber": "4-Alameda County-1",
+    "implementingAgencyName": "Alameda County",
+    "projectName": "D Street Bicycle, Pedestrian and Safe Routes Improvements",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "67.",
+    "applicationNumber": "11-San Diego Association of Governments (SANDAG)-5",
+    "implementingAgencyName": "San Diego Association of Governments (SANDAG)",
+    "projectName": "Pacific Highway Coastal Rail Trail Airport Connection (PACTAC)",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "68.",
+    "applicationNumber": "8-Temecula, City of-2",
+    "implementingAgencyName": "Temecula, City of",
+    "projectName": "Temecula Creek Southside Trail Gap Closure",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "69.",
+    "applicationNumber": "7-San Gabriel Valley Council of Governments-2",
+    "implementingAgencyName": "San Gabriel Valley Council of Governments",
+    "projectName": "Montebello Railroad Safety Crossings Improvements",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "70.",
+    "applicationNumber": "8-Yucaipa, City of-1",
+    "implementingAgencyName": "Yucaipa, City of",
+    "projectName": "15th Street (Avenue D to Yucaipa Blvd)",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "71.",
+    "applicationNumber": "9-Tehachapi, City of-2",
+    "implementingAgencyName": "Tehachapi, City of",
+    "projectName": "Northside Neighborhood Complete Sidewalk & Bicycle Lane Project",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "72.",
+    "applicationNumber": "8-Riverside County-4",
+    "implementingAgencyName": "Riverside County",
+    "projectName": "Lakeview/Nuevo Mobility Plan",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "73.",
+    "applicationNumber": "10-Amador County Transportation Commission-1",
+    "implementingAgencyName": "Amador County Transportation Commission",
+    "projectName": "Jackson Creek Walk and City Connectivity",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "74.",
+    "applicationNumber": "12-Stanton, City of-1",
+    "implementingAgencyName": "Stanton, City of",
+    "projectName": "Orangewood Avenue Bicycle and Traffic Calming Project",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "75.",
+    "applicationNumber": "7-Vernon, City of-1",
+    "implementingAgencyName": "Vernon, City of",
+    "projectName": "City of Vernon - Open Streets",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "76.",
+    "applicationNumber": "11-San Diego Association of Governments (SANDAG)-3",
+    "implementingAgencyName": "San Diego Association of Governments (SANDAG)",
+    "projectName": "Bayshore to Imperial Bikeway: Connecting Regional Bikeways",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "77.",
+    "applicationNumber": "8-Palm Desert, City of-1",
+    "implementingAgencyName": "Palm Desert, City of",
+    "projectName": "Palm Desert Bicycle/Low Speed Electric Vehicle Route",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "78.",
+    "applicationNumber": "5-Santa Barbara, City of-2",
+    "implementingAgencyName": "Santa Barbara, City of",
+    "projectName": "Westside and Lower West Neighborhood Active Transportation Plan Implementat",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "79.",
+    "applicationNumber": "4-San Rafael, City of-2",
+    "implementingAgencyName": "San Rafael, City of",
+    "projectName": "Canal Neighborhood Active Transportation Enhancements Project",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "80.",
+    "applicationNumber": "3-Butte County-1",
+    "implementingAgencyName": "Butte County",
+    "projectName": "SOUTH OROVILLE BIKE AND PED CONNECTIVITY PROJECT",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "81.",
+    "applicationNumber": "11-Lemon Grove, City of-1",
+    "implementingAgencyName": "Lemon Grove, City of",
+    "projectName": "San Miguel Elementary Safe Routes to School",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "82.",
+    "applicationNumber": "5-Santa Barbara, City of-1",
+    "implementingAgencyName": "Santa Barbara, City of",
+    "projectName": "Cliff Drive: Urban Highway to Complete Street Transformation Project",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "83.",
+    "applicationNumber": "8-Desert Hot Springs, City of-2",
+    "implementingAgencyName": "Desert Hot Springs, City of",
+    "projectName": "Palm Drive Improvements - I-10 to Camino Aventura",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "84.",
+    "applicationNumber": "6-Dinuba, City of-6",
+    "implementingAgencyName": "Dinuba, City of",
+    "projectName": "Euclid Avenue-Phase 2 Improvements",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "85.",
+    "applicationNumber": "4-Mill Valley, City of-1",
+    "implementingAgencyName": "Mill Valley, City of",
+    "projectName": "Safe Routes to Schools Pedestrian Gap Closure Project",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "86.",
+    "applicationNumber": "5-Santa Barbara, City of-3",
+    "implementingAgencyName": "Santa Barbara, City of",
+    "projectName": "Milpas Street Crosswalk Safety and Sidewalk Widening Project",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "87.",
+    "applicationNumber": "8-Moreno Valley, City of-1",
+    "implementingAgencyName": "Moreno Valley, City of",
+    "projectName": "ADA Curb Ramps Remediation Project",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "88.",
+    "applicationNumber": "10-Oakdale, City of-1",
+    "implementingAgencyName": "Oakdale, City of",
+    "projectName": "Southwest Downtown - Safe Routes to School Project",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "89.",
+    "applicationNumber": "8-Moreno Valley, City of-2",
+    "implementingAgencyName": "Moreno Valley, City of",
+    "projectName": "Citywide Video Detection System and Audible Pedestrian Signal Upgrades",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "90.",
+    "applicationNumber": "8-Moreno Valley, City of-3",
+    "implementingAgencyName": "Moreno Valley, City of",
+    "projectName": "Pedestrian and Bicycle Bridge Connectivity Project",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "92.",
+    "applicationNumber": "8-Moreno Valley, City of-5",
+    "implementingAgencyName": "Moreno Valley, City of",
+    "projectName": "Enhancement of Juan Bautista Trail in Moreno Valley",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "93.",
+    "applicationNumber": "3-Citrus Heights, City of-2",
+    "implementingAgencyName": "Citrus Heights, City of",
+    "projectName": "Carriage/Lauppe Safe Routes to School Project",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "94.",
+    "applicationNumber": "6-Dinuba, City of-3",
+    "implementingAgencyName": "Dinuba, City of",
+    "projectName": "Complete Streets in Downtown Dinuba - Tulare Street",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "95.",
+    "applicationNumber": "6-Dinuba, City of-4",
+    "implementingAgencyName": "Dinuba, City of",
+    "projectName": "Kamm Avenue Pedestrian and Bicycle Improvements",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "96.",
+    "applicationNumber": "6-Dinuba, City of-1",
+    "implementingAgencyName": "Dinuba, City of",
+    "projectName": "Connecting Dinuba N-S for Bike/Pedestrian Safety - Alta Avenue",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "97.",
+    "applicationNumber": "6-Dinuba, City of-5",
+    "implementingAgencyName": "Dinuba, City of",
+    "projectName": "Making Crawford Avenue Safe- Phase 1",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "98.",
+    "applicationNumber": "3-Rocklin, City of-1",
+    "implementingAgencyName": "Rocklin, City of",
+    "projectName": "Rocklin Road Sierra College Corridor Multimodal Enhancements",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "99.",
+    "applicationNumber": "4-Sausalito, City of-1",
+    "implementingAgencyName": "Sausalito, City of",
+    "projectName": "Bridgeway Signal Improvements at Easterby",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "100.",
+    "applicationNumber": "12-Costa Mesa, City of-1",
+    "implementingAgencyName": "Costa Mesa, City of",
+    "projectName": "Adams Avenue Active Transportation Improvements, Costa Mesa",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "101.",
+    "applicationNumber": "8-Upland, City of-1",
+    "implementingAgencyName": "Upland, City of",
+    "projectName": "City of Upland Mobility Master Plan",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "102.",
+    "applicationNumber": "4-San Francisco Municipal Transportation Agency-1",
+    "implementingAgencyName": "San Francisco Municipal Transportation Agency",
+    "projectName": "Howard Streetscape Project",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "103.",
+    "applicationNumber": "4-Concord, City of-1",
+    "implementingAgencyName": "Concord, City of",
+    "projectName": "Willow Pass Road Bikeway Connection Project",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "104.",
+    "applicationNumber": "6-Dinuba, City of-7",
+    "implementingAgencyName": "Dinuba, City of",
+    "projectName": "Building Dinuba's Active Transportation Future - Infrastructure & Non-Infrastructu",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "105.",
+    "applicationNumber": "8-Jurupa Valley, City of-1",
+    "implementingAgencyName": "Jurupa Valley, City of",
+    "projectName": "Jurupa Valley Mira Loma Area SRTS Sidewalk Gap Closure",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "106.",
+    "applicationNumber": "4-Sausalito, City of-2",
+    "implementingAgencyName": "Sausalito, City of",
+    "projectName": "Coloma Street Safe Pathways to School",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "107.",
+    "applicationNumber": "8-Rialto, City of-1",
+    "implementingAgencyName": "Rialto, City of",
+    "projectName": "Rialto Pacific Electric Trail Extension",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "108.",
+    "applicationNumber": "8-Jurupa Valley, City of-2",
+    "implementingAgencyName": "Jurupa Valley, City of",
+    "projectName": "Jurupa Valley Granite Hill Area SRTS Sidewalk Gap Closure",
+    "receivedDate": "6/14/2022"
+  },
+  {
+    "applicationID": "109.",
+    "applicationNumber": "8-Jurupa Valley, City of-3",
+    "implementingAgencyName": "Jurupa Valley, City of",
+    "projectName": "Jurupa Valley Agate Street Complete Streets Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "110.",
+    "applicationNumber": "4-Palo Alto, City of-1",
+    "implementingAgencyName": "Palo Alto, City of",
+    "projectName": "South Palo Alto Enhanced Bikeways Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "111.",
+    "applicationNumber": "8-Riverside, City of-3",
+    "implementingAgencyName": "Riverside, City of",
+    "projectName": "Riverside’s Fifty Individualized SRTS Studies and Safety Circulation Plans",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "112.",
+    "applicationNumber": "8-Fontana, City of-1",
+    "implementingAgencyName": "Fontana, City of",
+    "projectName": "Foothill Boulevard Active Transportation Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "113.",
+    "applicationNumber": "7-Los Angeles County-6",
+    "implementingAgencyName": "Los Angeles County",
+    "projectName": "Unincorporated Los Angeles County Safe Routes to School Plan",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "114.",
+    "applicationNumber": "6-Orange Cove, City of-1",
+    "implementingAgencyName": "Orange Cove, City of",
+    "projectName": "Safe Route to Schools and Pedestrian Connectivity",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "115.",
+    "applicationNumber": "6-Madera County-22",
+    "implementingAgencyName": "Madera County",
+    "projectName": "Road 417 Pedestrian Facilities Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "116.",
+    "applicationNumber": "8-Corona, City of-2",
+    "implementingAgencyName": "Corona, City of",
+    "projectName": "Corona Citywide Sidewalk Gap Closure",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "117.",
+    "applicationNumber": "5-Lompoc, City of-1",
+    "implementingAgencyName": "Lompoc, City of",
+    "projectName": "City of Lompoc Walkability, Community Safety and School Investments Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "118.",
+    "applicationNumber": "11-Chula Vista, City of-2",
+    "implementingAgencyName": "Chula Vista, City of",
+    "projectName": "Bayshore Bikeway Segment 6A",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "119.",
+    "applicationNumber": "8-Moreno Valley, City of-4",
+    "implementingAgencyName": "Moreno Valley, City of",
+    "projectName": "Roadway Widening and Bicycle Lane Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "120.",
+    "applicationNumber": "7-Los Angeles County-3",
+    "implementingAgencyName": "Los Angeles County",
+    "projectName": "Cornell Road Bike Turnout Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "121.",
+    "applicationNumber": "10-Stockton, City of-3",
+    "implementingAgencyName": "Stockton, City of",
+    "projectName": "Safe Routes to School Sidewalk Gap Closure",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "122.",
+    "applicationNumber": "4-Contra Costa County-3",
+    "implementingAgencyName": "Contra Costa County",
+    "projectName": "Fourth Street Crosswalk Enhancements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "123.",
+    "applicationNumber": "7-Santa Paula, City of-1",
+    "implementingAgencyName": "Santa Paula, City of",
+    "projectName": "bike trail",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "124.",
+    "applicationNumber": "4-Corte Madera, Town of-1",
+    "implementingAgencyName": "Corte Madera, Town of",
+    "projectName": "Central Marin Regional Pathways Gap Closure Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "125.",
+    "applicationNumber": "12-Buena Park, City of-1",
+    "implementingAgencyName": "Buena Park, City of",
+    "projectName": "Dale / Whitaker Complete Streets Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "126.",
+    "applicationNumber": "3-Butte County Association of Governments-1",
+    "implementingAgencyName": "Butte County Association of Governments",
+    "projectName": "Safe Routes, Active Butte County",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "127.",
+    "applicationNumber": "7-Huntington Park, City of-1",
+    "implementingAgencyName": "Huntington Park, City of",
+    "projectName": "Huntington Park’s Safe Routes for Students and Seniors",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "128.",
+    "applicationNumber": "11-El Centro, City of-1",
+    "implementingAgencyName": "El Centro, City of",
+    "projectName": "City of El Centro Pedestrian Improvement Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "129.",
+    "applicationNumber": "4-East Bay Regional Park District-1",
+    "implementingAgencyName": "East Bay Regional Park District",
+    "projectName": "Martinez Intermodal Station - Crockett Bay Trail Gap Closure Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "130.",
+    "applicationNumber": "11-Chula Vista, City of-1",
+    "implementingAgencyName": "Chula Vista, City of",
+    "projectName": "F Street Promenade Phase I, from Bay Boulevard to Broadway",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "131.",
+    "applicationNumber": "3-Nevada County Transportation Commission-2",
+    "implementingAgencyName": "Nevada County Transportation Commission",
+    "projectName": "SR 49 Multimodal Corridor Improvements, Nevada City",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "132.",
+    "applicationNumber": "7-Artesia, City of-1",
+    "implementingAgencyName": "Artesia, City of",
+    "projectName": "Pioneer Boulevard Improvements Project, City of Artesia",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "133.",
+    "applicationNumber": "11-San Diego, City of-4",
+    "implementingAgencyName": "San Diego, City of",
+    "projectName": "Southeastern San Diego Safe Routes to School",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "134.",
+    "applicationNumber": "8-Corona, City of-1",
+    "implementingAgencyName": "Corona, City of",
+    "projectName": "Update to Corona's Bicycle Master Plan",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "135.",
+    "applicationNumber": "9-Tehachapi, City of-1",
+    "implementingAgencyName": "Tehachapi, City of",
+    "projectName": "Valley Boulevard and Mill Street Gap Closure Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "136.",
+    "applicationNumber": "1-Robinson Rancheria-1",
+    "implementingAgencyName": "Robinson Rancheria",
+    "projectName": "Robinson Rancheria Pedestrian Bike Path",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "137.",
+    "applicationNumber": "4-Santa Clara Valley Transportation Authority-2",
+    "implementingAgencyName": "Santa Clara Valley Transportation Authority",
+    "projectName": "Homestead Road Safe Routes to School Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "138.",
+    "applicationNumber": "12-Brea, City of-1",
+    "implementingAgencyName": "Brea, City of",
+    "projectName": "Tracks at Brea - Western Extension",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "139.",
+    "applicationNumber": "3-Sacramento County-1",
+    "implementingAgencyName": "Sacramento County",
+    "projectName": "Elkhorn Boulevard Complete Streets Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "140.",
+    "applicationNumber": "4-Solano County-1",
+    "implementingAgencyName": "Solano County",
+    "projectName": "Benicia Road Complete Streets Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "141.",
+    "applicationNumber": "8-Riverside County-3",
+    "implementingAgencyName": "Riverside County",
+    "projectName": "Desert Edge Mobility Plan",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "142.",
+    "applicationNumber": "4-Pleasant Hill, City of-1",
+    "implementingAgencyName": "Pleasant Hill, City of",
+    "projectName": "Monument Boulevard/1-680 Bicycle & Pedestrian Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "143.",
+    "applicationNumber": "11-Oceanside, City of-1",
+    "implementingAgencyName": "Oceanside, City of",
+    "projectName": "Coastal Rail Trail from Oceanside Boulevard to Morse Street",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "144.",
+    "applicationNumber": "4-Alameda County Transportation Commission-2",
+    "implementingAgencyName": "Alameda County Transportation Commission",
+    "projectName": "San Pablo Avenue Safety and Bus Bulbs Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "145.",
+    "applicationNumber": "4-Contra Costa County-6",
+    "implementingAgencyName": "Contra Costa County",
+    "projectName": "San Pablo Avenue Complete Streets/Bay Trail Gap Closure Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "146.",
+    "applicationNumber": "5-El Paso De Robles, City of-1",
+    "implementingAgencyName": "El Paso De Robles, City of",
+    "projectName": "Niblick Road Complete and Sustainable Bike and Pedestrian Streets",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "147.",
+    "applicationNumber": "10-Sonora, City of-1",
+    "implementingAgencyName": "Sonora, City of",
+    "projectName": "SR 49 Gold Rush Multi-Use Path Phase 1",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "148.",
+    "applicationNumber": "11-National City, City of-1",
+    "implementingAgencyName": "National City, City of",
+    "projectName": "Civic Center Drive Protected Bikeway",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "149.",
+    "applicationNumber": "7-Los Angeles County-1",
+    "implementingAgencyName": "Los Angeles County",
+    "projectName": "Los Nietos Pedestrian Access Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "150.",
+    "applicationNumber": "3-Yuba City, City of-1",
+    "implementingAgencyName": "Yuba City, City of",
+    "projectName": "Yuba City Bicycle and Pedestrian Safety Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "151.",
+    "applicationNumber": "5-Monterey County-1",
+    "implementingAgencyName": "Monterey County",
+    "projectName": "San Ardo Community and School Connections Through Active Transportation",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "152.",
+    "applicationNumber": "3-Williams, City of-1",
+    "implementingAgencyName": "Williams, City of",
+    "projectName": "E Street Complete Streets Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "153.",
+    "applicationNumber": "7-Los Angeles County-2",
+    "implementingAgencyName": "Los Angeles County",
+    "projectName": "Metro A Line Connections for Unincorporated Los Angeles County",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "154.",
+    "applicationNumber": "11-Lemon Grove, City of-2",
+    "implementingAgencyName": "Lemon Grove, City of",
+    "projectName": "Connect Main Street - Phases 4 thru 6",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "155.",
+    "applicationNumber": "6-Reedley, City of-1",
+    "implementingAgencyName": "Reedley, City of",
+    "projectName": "Reedley Parkway Phase VI",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "156.",
+    "applicationNumber": "7-Los Angeles County-4",
+    "implementingAgencyName": "Los Angeles County",
+    "projectName": "Rosewood/West Rancho Dominguez Vision Zero Traffic Safety Enhancement Pro",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "157.",
+    "applicationNumber": "8-Riverside, City of-2",
+    "implementingAgencyName": "Riverside, City of",
+    "projectName": "Mitchell Avenue Sidepath Gap Closure",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "158.",
+    "applicationNumber": "6-Madera County-1",
+    "implementingAgencyName": "Madera County",
+    "projectName": "La Vina Community Mobility and Safety Enhancements Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "159.",
+    "applicationNumber": "7-San Gabriel Valley Council of Governments-3",
+    "implementingAgencyName": "San Gabriel Valley Council of Governments",
+    "projectName": "East San Gabriel Valley Sustainable Multimodal Improvement Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "160.",
+    "applicationNumber": "11-San Diego, City of-5",
+    "implementingAgencyName": "San Diego, City of",
+    "projectName": "San Diego CicloSDias Pilot",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "161.",
+    "applicationNumber": "4-Menlo Park, City of-1",
+    "implementingAgencyName": "Menlo Park, City of",
+    "projectName": "Willow Road (SR-114) Pedestrian Improvements and Class IV Bikeway",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "162.",
+    "applicationNumber": "6-Kern County - D6-2",
+    "implementingAgencyName": "Kern County - D6",
+    "projectName": "Mt Vernon SRTS Safety Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "163.",
+    "applicationNumber": "7-Pomona, City of-1",
+    "implementingAgencyName": "Pomona, City of",
+    "projectName": "San Jose Creek Multi-Use Bikeway in the City of Pomona",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "164.",
+    "applicationNumber": "4-Petaluma, City of-1",
+    "implementingAgencyName": "Petaluma, City of",
+    "projectName": "River Trail - Highway 101 Crossing Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "165.",
+    "applicationNumber": "7-Pasadena, City of-2",
+    "implementingAgencyName": "Pasadena, City of",
+    "projectName": "North Fair Oaks Avenue Enhancement Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "166.",
+    "applicationNumber": "4-Rio Vista, City of-1",
+    "implementingAgencyName": "Rio Vista, City of",
+    "projectName": "Airport Road and Church Road Bike and Pedestrian Improvement Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "167.",
+    "applicationNumber": "4-Suisun City, City of-1",
+    "implementingAgencyName": "Suisun City, City of",
+    "projectName": "McCoy Creek Trail Phase 3 Improvements Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "168.",
+    "applicationNumber": "8-Apple Valley, Town of-1",
+    "implementingAgencyName": "Apple Valley, Town of",
+    "projectName": "Powhatan Road Complete Streets, Apple Valley",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "169.",
+    "applicationNumber": "12-Anaheim, City of-2",
+    "implementingAgencyName": "Anaheim, City of",
+    "projectName": "Anaheim Pedestrian Crosswalk Safety Improvement Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "170.",
+    "applicationNumber": "8-Apple Valley, Town of-2",
+    "implementingAgencyName": "Apple Valley, Town of",
+    "projectName": "Bear Valley Road Class 1 Bike Path, Apple Valley",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "171.",
+    "applicationNumber": "4-San Rafael, City of-1",
+    "implementingAgencyName": "San Rafael, City of",
+    "projectName": "San Rafael Canal Crossing Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "172.",
+    "applicationNumber": "4-Vacaville, City of-1",
+    "implementingAgencyName": "Vacaville, City of",
+    "projectName": "Ulatis Transit to Downtown Connector",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "173.",
+    "applicationNumber": "7-Long Beach, City of-1",
+    "implementingAgencyName": "Long Beach, City of",
+    "projectName": "Mid-City Bicycle and Pedestrian Connections",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "174.",
+    "applicationNumber": "11-National City, City of-3",
+    "implementingAgencyName": "National City, City of",
+    "projectName": "24th Street Transit Center Connections",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "175.",
+    "applicationNumber": "8-Needles, City of-1",
+    "implementingAgencyName": "Needles, City of",
+    "projectName": "City of Needles Schools and Seniors Sidewalk Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "176.",
+    "applicationNumber": "12-Orange County Transportation Authority (OCTA)-1",
+    "implementingAgencyName": "Orange County Transportation Authority (OCTA)",
+    "projectName": "Next STEP (Safe Travels Education Program)",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "177.",
+    "applicationNumber": "6-Taft, City of-1",
+    "implementingAgencyName": "Taft, City of",
+    "projectName": "10TH ST & SAN EMIDIO ST - INTERSECTION SAFETY IMPROVEMENTS",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "178.",
+    "applicationNumber": "5-Monterey County-2",
+    "implementingAgencyName": "Monterey County",
+    "projectName": "Chualar Community and School Connections Through Active Transportation",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "179.",
+    "applicationNumber": "4-Santa Clara Valley Transportation Authority-1",
+    "implementingAgencyName": "Santa Clara Valley Transportation Authority",
+    "projectName": "Bascom Avenue Complete Street Project (I-880 to Hamilton Avenue)",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "180.",
+    "applicationNumber": "10-Stockton, City of-6",
+    "implementingAgencyName": "Stockton, City of",
+    "projectName": "8th Street/Houston Avenue/Manthey Road Bicycle/Pedestrian Connectivity",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "181.",
+    "applicationNumber": "8-Riverside, City of-1",
+    "implementingAgencyName": "Riverside, City of",
+    "projectName": "Five Points Neighborhood Pedestrian Safety Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "183.",
+    "applicationNumber": "8-San Bernardino County-2",
+    "implementingAgencyName": "San Bernardino County",
+    "projectName": "Bloomington Area Schools Pedestrian Safety Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "184.",
+    "applicationNumber": "8-Cahuilla Band of Indians-1",
+    "implementingAgencyName": "Cahuilla Band of Indians",
+    "projectName": "Cahuilla Active Transportation Program",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "185.",
+    "applicationNumber": "4-Fairfield, City of-1",
+    "implementingAgencyName": "Fairfield, City of",
+    "projectName": "Travis Safe Routes to School and Transit Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "186.",
+    "applicationNumber": "4-Contra Costa County-1",
+    "implementingAgencyName": "Contra Costa County",
+    "projectName": "Appian Way - Pedestrian Crossings and Sidewalk Gap Closures",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "187.",
+    "applicationNumber": "8-Fontana, City of-2",
+    "implementingAgencyName": "Fontana, City of",
+    "projectName": "Fontana - Marygold Avenue Sidewalk Improvements - Small Infrastructure",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "188.",
+    "applicationNumber": "10-Tuolumne County-1",
+    "implementingAgencyName": "Tuolumne County",
+    "projectName": "Groveland Community Connectivity Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "189.",
+    "applicationNumber": "5-San Luis Obispo County-1",
+    "implementingAgencyName": "San Luis Obispo County",
+    "projectName": "Morro Bay to Cayucos Multi-Use Trail Gap Closure Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "190.",
+    "applicationNumber": "7-Ventura County-1",
+    "implementingAgencyName": "Ventura County",
+    "projectName": "Saticoy Pedestrian Improvement & Community Connections Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "191.",
+    "applicationNumber": "8-Ontario, City of-1",
+    "implementingAgencyName": "Ontario, City of",
+    "projectName": "Mission Boulevard Bike Lane and Pedestrian Improvements, Ontario",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "192.",
+    "applicationNumber": "7-Pasadena, City of-1",
+    "implementingAgencyName": "Pasadena, City of",
+    "projectName": "North Lake Avenue Pedestrian and Safety Enhancement Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "193.",
+    "applicationNumber": "7-California State Polytechnic University, Pomona (Cal Poly Pom",
+    "implementingAgencyName": "California State Polytechnic University, Pomona (Cal Po",
+    "projectName": "Cal Poly Pomona Campuswide Active Transportation Plan",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "194.",
+    "applicationNumber": "7-Hawaiian Gardens, City of-1",
+    "implementingAgencyName": "Hawaiian Gardens, City of",
+    "projectName": "Hawaiian Gardens Bicycle Master Plan",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "195.",
+    "applicationNumber": "3-Yuba County-1",
+    "implementingAgencyName": "Yuba County",
+    "projectName": "West Linda Comprehensive Safe Routes to School Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "196.",
+    "applicationNumber": "6-Kern County - D6-3",
+    "implementingAgencyName": "Kern County - D6",
+    "projectName": "Niles Street Safety Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "197.",
+    "applicationNumber": "2-Modoc County-2",
+    "implementingAgencyName": "Modoc County",
+    "projectName": "Surprise Valley School Safety and Community Connectivity Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "198.",
+    "applicationNumber": "5-Monterey County-3",
+    "implementingAgencyName": "Monterey County",
+    "projectName": "Community and School Connections Through Active Transportation",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "199.",
+    "applicationNumber": "8-San Bernardino County-1",
+    "implementingAgencyName": "San Bernardino County",
+    "projectName": "San Bernardino Valley Safe Routes to School Plan (Unincorporated Schools)",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "200.",
+    "applicationNumber": "10-San Joaquin County-2",
+    "implementingAgencyName": "San Joaquin County",
+    "projectName": "Countywide Sidewalk Connectivity Plan",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "201.",
+    "applicationNumber": "7-Los Angeles County-5",
+    "implementingAgencyName": "Los Angeles County",
+    "projectName": "Walnut Park Pedestrian Plan Implementation",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "202.",
+    "applicationNumber": "3-Yuba County-2",
+    "implementingAgencyName": "Yuba County",
+    "projectName": "Olivehurst Comprehensive Safe Routes to School Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "203.",
+    "applicationNumber": "12-Orange, City of-1",
+    "implementingAgencyName": "Orange, City of",
+    "projectName": "Santiago Creek Bike Trail Gap Closure",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "204.",
+    "applicationNumber": "3-Rancho Cordova, City of-1",
+    "implementingAgencyName": "Rancho Cordova, City of",
+    "projectName": "Zinfandel Drive Bicycle and Pedestrian Overcrossing",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "205.",
+    "applicationNumber": "11-Holtville, City of-1",
+    "implementingAgencyName": "Holtville, City of",
+    "projectName": "Alamo River Trail Paving Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "206.",
+    "applicationNumber": "6-Tulare County-1",
+    "implementingAgencyName": "Tulare County",
+    "projectName": "Cutler-Orosi Pedestrian Improvements Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "207.",
+    "applicationNumber": "4-Contra Costa County-4",
+    "implementingAgencyName": "Contra Costa County",
+    "projectName": "Market Avenue Complete Street",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "208.",
+    "applicationNumber": "3-Sacramento County-3",
+    "implementingAgencyName": "Sacramento County",
+    "projectName": "Stockton Blvd Complete Streets Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "209.",
+    "applicationNumber": "1-Mendocino Council of Governments-1",
+    "implementingAgencyName": "Mendocino Council of Governments",
+    "projectName": "Gualala Downtown Streetscape Enhancement Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "210.",
+    "applicationNumber": "6-Tulare County-2",
+    "implementingAgencyName": "Tulare County",
+    "projectName": "Poplar Pedestrian Connectivity Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "211.",
+    "applicationNumber": "4-Alameda County-4",
+    "implementingAgencyName": "Alameda County",
+    "projectName": "Oakland Making Moves: Active Oakland Neighborhoods",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "212.",
+    "applicationNumber": "5-Salinas, City of-2",
+    "implementingAgencyName": "Salinas, City of",
+    "projectName": "Alisal Safe Routes to School Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "213.",
+    "applicationNumber": "4-Healdsburg, City of-1",
+    "implementingAgencyName": "Healdsburg, City of",
+    "projectName": "Healdsburg Avenue Complete Streets Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "214.",
+    "applicationNumber": "6-Wasco, City of-1",
+    "implementingAgencyName": "Wasco, City of",
+    "projectName": "Central Avenue Class I & Class II Bicycle Trails",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "215.",
+    "applicationNumber": "10-Groveland Community Services District-1",
+    "implementingAgencyName": "Groveland Community Services District",
+    "projectName": "Hetch Hetchy Railroad Trail Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "216.",
+    "applicationNumber": "4-Emeryville, City of-1",
+    "implementingAgencyName": "Emeryville, City of",
+    "projectName": "Emeryville Loop",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "217.",
+    "applicationNumber": "4-Alameda County-3",
+    "implementingAgencyName": "Alameda County",
+    "projectName": "San Lorenzo Creekway: Building Equitable Active Transportation in Alameda Cou",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "218.",
+    "applicationNumber": "3-Citrus Heights, City of-1",
+    "implementingAgencyName": "Citrus Heights, City of",
+    "projectName": "Old Auburn Road Complete Streets - Phase 1",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "219.",
+    "applicationNumber": "3-West Sacramento, City of-1",
+    "implementingAgencyName": "West Sacramento, City of",
+    "projectName": "I Street Bridge Deck Conversion for Active Transportation Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "220.",
+    "applicationNumber": "10-Stockton, City of-5",
+    "implementingAgencyName": "Stockton, City of",
+    "projectName": "Downtown Stockton Weber Avenue Bike and Ped Connectivity",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "221.",
+    "applicationNumber": "3-Sacramento, City of-2",
+    "implementingAgencyName": "Sacramento, City of",
+    "projectName": "Envision Broadway in Oak Park",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "222.",
+    "applicationNumber": "10-Manteca, City of-2",
+    "implementingAgencyName": "Manteca, City of",
+    "projectName": "Manteca Citywide Sidewalk Gap Closure",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "223.",
+    "applicationNumber": "4-Bay Area Toll Authority-1",
+    "implementingAgencyName": "Bay Area Toll Authority",
+    "projectName": "West Oakland Link of the Bay Skyway",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "224.",
+    "applicationNumber": "6-Fowler, City of-1",
+    "implementingAgencyName": "Fowler, City of",
+    "projectName": "Fowler West-side Alternative Transportation Connection Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "225.",
+    "applicationNumber": "6-Tulare County-4",
+    "implementingAgencyName": "Tulare County",
+    "projectName": "Strathmore Pedestrian Improvements Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "226.",
+    "applicationNumber": "3-Placer County Nonurbanized Area-3",
+    "implementingAgencyName": "Placer County Nonurbanized Area",
+    "projectName": "North Tahoe Regional Multi-Use Trail - Segment 1",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "227.",
+    "applicationNumber": "6-Fowler, City of-2",
+    "implementingAgencyName": "Fowler, City of",
+    "projectName": "Fremont Elementary/Marshall Elementary/Fowler High School Safe Routes to Sch",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "228.",
+    "applicationNumber": "10-San Joaquin County-3",
+    "implementingAgencyName": "San Joaquin County",
+    "projectName": "Boggs Tract Community Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "229.",
+    "applicationNumber": "4-San Francisco Municipal Transportation Agency-2",
+    "implementingAgencyName": "San Francisco Municipal Transportation Agency",
+    "projectName": "Bayview Multimodal Community Corridor",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "230.",
+    "applicationNumber": "10-San Joaquin County-1",
+    "implementingAgencyName": "San Joaquin County",
+    "projectName": "Burkett Garden Acres Sidewalk Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "231.",
+    "applicationNumber": "3-Yuba County-3",
+    "implementingAgencyName": "Yuba County",
+    "projectName": "East Linda Comprehensive Safe Routes to School Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "232.",
+    "applicationNumber": "7-Paramount, City of-1",
+    "implementingAgencyName": "Paramount, City of",
+    "projectName": "West Paramount Utility Easement Multi-Use Path - Phase 1",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "233.",
+    "applicationNumber": "1-Fortuna, City of-1",
+    "implementingAgencyName": "Fortuna, City of",
+    "projectName": "John Campbell Memorial Greenway Trail",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "234.",
+    "applicationNumber": "4-Santa Clara, City of-1",
+    "implementingAgencyName": "Santa Clara, City of",
+    "projectName": "Central Santa Clara Bicycle and Pedestrian Improvement Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "235.",
+    "applicationNumber": "6-Huron, City of-1",
+    "implementingAgencyName": "Huron, City of",
+    "projectName": "Citywide Sidewalk Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "236.",
+    "applicationNumber": "10-San Joaquin County-4",
+    "implementingAgencyName": "San Joaquin County",
+    "projectName": "Harrison Elementary Active Transportation Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "237.",
+    "applicationNumber": "10-San Joaquin County-5",
+    "implementingAgencyName": "San Joaquin County",
+    "projectName": "Thornton Community Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "238.",
+    "applicationNumber": "11-Vista, City of-1",
+    "implementingAgencyName": "Vista, City of",
+    "projectName": "Emerald Drive Complete Street Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "239.",
+    "applicationNumber": "3-Nevada County Transportation Commission-1",
+    "implementingAgencyName": "Nevada County Transportation Commission",
+    "projectName": "SR 174/49/20 Roundabout and Active Transportation Safety Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "240.",
+    "applicationNumber": "7-Glendale, City of-2",
+    "implementingAgencyName": "Glendale, City of",
+    "projectName": "Phase 1 of Citywide Pedestrian Master Plan",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "241.",
+    "applicationNumber": "8-Montclair, City of-1",
+    "implementingAgencyName": "Montclair, City of",
+    "projectName": "Montclair SRTS Implementation Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "242.",
+    "applicationNumber": "4-Contra Costa County-5",
+    "implementingAgencyName": "Contra Costa County",
+    "projectName": "Pacifica Avenue Safe Routes to School Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "243.",
+    "applicationNumber": "1-Lake County-1",
+    "implementingAgencyName": "Lake County",
+    "projectName": "Rainbow Road Complete Streets Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "244.",
+    "applicationNumber": "6-Fresno, City of-1",
+    "implementingAgencyName": "Fresno, City of",
+    "projectName": "Midtown Trail Tunnel and Regional Connectivity Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "245.",
+    "applicationNumber": "7-Los Angeles, City of-2",
+    "implementingAgencyName": "Los Angeles, City of",
+    "projectName": "Western Our Way: Walk and Wheel Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "246.",
+    "applicationNumber": "4-Contra Costa County-2",
+    "implementingAgencyName": "Contra Costa County",
+    "projectName": "Carquinez Middle School Trail Connection",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "247.",
+    "applicationNumber": "4-Berkeley, City of-2",
+    "implementingAgencyName": "Berkeley, City of",
+    "projectName": "Washington Elementary and Berkeley High SR2S Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "248.",
+    "applicationNumber": "6-Porterville, City of-1",
+    "implementingAgencyName": "Porterville, City of",
+    "projectName": "HAWK Pedestrian Crossings Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "249.",
+    "applicationNumber": "3-Yolo County-1",
+    "implementingAgencyName": "Yolo County",
+    "projectName": "County Road 98 Bike & Safety Improvement Project Phase II",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "250.",
+    "applicationNumber": "4-Fremont, City of-1",
+    "implementingAgencyName": "Fremont, City of",
+    "projectName": "East Bay Greenway (Irvington to Fremont BART) Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "251.",
+    "applicationNumber": "12-Laguna Beach, City of-1",
+    "implementingAgencyName": "Laguna Beach, City of",
+    "projectName": "Laguna Canyon Road Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "252.",
+    "applicationNumber": "7-San Fernando, City of-1",
+    "implementingAgencyName": "San Fernando, City of",
+    "projectName": "San Fernando Safe and Active Streets Network",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "253.",
+    "applicationNumber": "3-El Dorado County-4",
+    "implementingAgencyName": "El Dorado County",
+    "projectName": "Meyers Bikeway Connector - Pioneer Trail to Elks Club Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "254.",
+    "applicationNumber": "3-El Dorado County-3",
+    "implementingAgencyName": "El Dorado County",
+    "projectName": "South Tahoe Greenway-Upper Truckee River Bridge at Johnson Meadow",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "255.",
+    "applicationNumber": "4-San Francisco Bay Area Rapid Transit District-1",
+    "implementingAgencyName": "San Francisco Bay Area Rapid Transit District",
+    "projectName": "Dublin/Pleasanton Bicycle and Pedestrian Access Improvements: Iron Horse Trai",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "256.",
+    "applicationNumber": "7-Los Angeles County-10",
+    "implementingAgencyName": "Los Angeles County",
+    "projectName": "Pedestrian Plans for Five High-Collision Disadvantaged Communities in LA Coun",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "257.",
+    "applicationNumber": "7-Ventura County-2",
+    "implementingAgencyName": "Ventura County",
+    "projectName": "Piru Pedestrian Improvement Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "258.",
+    "applicationNumber": "10-Lathrop,City of-1",
+    "implementingAgencyName": "Lathrop,City of",
+    "projectName": "Lathrop Sidewalk Gap Closure Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "259.",
+    "applicationNumber": "5-Arroyo Grande, City of-1",
+    "implementingAgencyName": "Arroyo Grande, City of",
+    "projectName": "Halcyon Road Complete Streets Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "260.",
+    "applicationNumber": "3-El Dorado County-1",
+    "implementingAgencyName": "El Dorado County",
+    "projectName": "Ponderosa Road Bicycle and Pedestrian Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "261.",
+    "applicationNumber": "6-Bakersfield, City of-1",
+    "implementingAgencyName": "Bakersfield, City of",
+    "projectName": "Kern River North of 24th Street",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "262.",
+    "applicationNumber": "4-San Carlos, City of-1",
+    "implementingAgencyName": "San Carlos, City of",
+    "projectName": "Holly Street/US-101 Pedestrian and Bicyclist Overcrossing",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "263.",
+    "applicationNumber": "6-Kern County - D6-1",
+    "implementingAgencyName": "Kern County - D6",
+    "projectName": "Norris Pedestrian and Railroad Safety Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "264.",
+    "applicationNumber": "12-Orange County-1",
+    "implementingAgencyName": "Orange County",
+    "projectName": "OC Loop Segment P and Q",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "265.",
+    "applicationNumber": "3-Sacramento County-2",
+    "implementingAgencyName": "Sacramento County",
+    "projectName": "Bell Street Safe Routes to School",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "266.",
+    "applicationNumber": "6-Fresno, City of-2",
+    "implementingAgencyName": "Fresno, City of",
+    "projectName": "First Street Phase 3 Protected Bikeway",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "267.",
+    "applicationNumber": "11-Calipatria, City of-1",
+    "implementingAgencyName": "Calipatria, City of",
+    "projectName": "City of Calipatria - Bonita Place Pedestrian Safety Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "268.",
+    "applicationNumber": "7-Walnut, City of-1",
+    "implementingAgencyName": "Walnut, City of",
+    "projectName": "ATP Cycle 6 Green Bike Lanes and Video Detection Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "269.",
+    "applicationNumber": "4-Napa, City of-1",
+    "implementingAgencyName": "Napa, City of",
+    "projectName": "Imola Avenue Corridor Complete Streets Improvement Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "270.",
+    "applicationNumber": "7-Glendale, City of-1",
+    "implementingAgencyName": "Glendale, City of",
+    "projectName": "Verdugo Wash: Active Transportation Master Plan",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "271.",
+    "applicationNumber": "7-El Segundo, City of-1",
+    "implementingAgencyName": "El Segundo, City of",
+    "projectName": "El Segundo Safe Routes to School Infrastructure",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "272.",
+    "applicationNumber": "3-Yuba City, City of-2",
+    "implementingAgencyName": "Yuba City, City of",
+    "projectName": "Yuba City Abandoned Railroad Corridor Conversion Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "274.",
+    "applicationNumber": "4-Pittsburg, City of-1",
+    "implementingAgencyName": "Pittsburg, City of",
+    "projectName": "Pittsburg Pedestrian and Bicycle Connectivity to BART",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "275.",
+    "applicationNumber": "3-Paradise, Town of-1",
+    "implementingAgencyName": "Paradise, Town of",
+    "projectName": "Go Paradise: Skyway Link Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "276.",
+    "applicationNumber": "11-Escondido, City of-1",
+    "implementingAgencyName": "Escondido, City of",
+    "projectName": "Hidden Valley Middle School Safe Routes to School Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "277.",
+    "applicationNumber": "7-Simi Valley, City of-1",
+    "implementingAgencyName": "Simi Valley, City of",
+    "projectName": "Simi Valley Bicycle Master Plan",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "278.",
+    "applicationNumber": "6-Visalia, City of-1",
+    "implementingAgencyName": "Visalia, City of",
+    "projectName": "Goshen-Visalia Corridor (GVC) Improvement Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "279.",
+    "applicationNumber": "6-Porterville, City of-2",
+    "implementingAgencyName": "Porterville, City of",
+    "projectName": "Tule River Parkway Solar Lighting Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "280.",
+    "applicationNumber": "10-Stockton, City of-4",
+    "implementingAgencyName": "Stockton, City of",
+    "projectName": "Main and Market Complete Streets",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "281.",
+    "applicationNumber": "6-Bakersfield, City of-6",
+    "implementingAgencyName": "Bakersfield, City of",
+    "projectName": "California Avenue (Marella Way to Planz Rd)",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "282.",
+    "applicationNumber": "5-Monterey County-4",
+    "implementingAgencyName": "Monterey County",
+    "projectName": "Esquiline Road Pedestrian and Bicycle Safety Improvement Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "283.",
+    "applicationNumber": "10-Ceres, City of-1",
+    "implementingAgencyName": "Ceres, City of",
+    "projectName": "Improving Pedestrian Safety on Central Ave and Hackett Road Corridor",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "284.",
+    "applicationNumber": "6-Bakersfield, City of-4",
+    "implementingAgencyName": "Bakersfield, City of",
+    "projectName": "Monterey St (Alta Vista Dr to Brown St)",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "285.",
+    "applicationNumber": "4-Yountville, Town of-1",
+    "implementingAgencyName": "Yountville, Town of",
+    "projectName": "Town of Yountville Forrester Lane ATP Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "286.",
+    "applicationNumber": "4-South San Francisco, City of-1",
+    "implementingAgencyName": "South San Francisco, City of",
+    "projectName": "Hillside Pedestrian Connection Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "287.",
+    "applicationNumber": "6-Fresno, City of-3",
+    "implementingAgencyName": "Fresno, City of",
+    "projectName": "Downtown Neighborhood Safe Schools Crossing",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "288.",
+    "applicationNumber": "6-Bakersfield, City of-2",
+    "implementingAgencyName": "Bakersfield, City of",
+    "projectName": "Arvin-Edison Canal Multi-Use Path",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "289.",
+    "applicationNumber": "3-Paradise, Town of-3",
+    "implementingAgencyName": "Paradise, Town of",
+    "projectName": "Go Paradise: Oliver-Park Connection Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "290.",
+    "applicationNumber": "3-Placerville, City of-1",
+    "implementingAgencyName": "Placerville, City of",
+    "projectName": "Placerville Drive Bicycle and Pedestrian Facilities Phase 1",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "291.",
+    "applicationNumber": "7-Avalon, City of-1",
+    "implementingAgencyName": "Avalon, City of",
+    "projectName": "Tremont Five Corners School Safety Roundabouts",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "292.",
+    "applicationNumber": "7-Santa Paula, City of-2",
+    "implementingAgencyName": "Santa Paula, City of",
+    "projectName": "crosswalk enhancement with rectangular rapid flashing beacons",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "293.",
+    "applicationNumber": "7-Carson, City of-2",
+    "implementingAgencyName": "Carson, City of",
+    "projectName": "City of Carson City-wide Community Safety Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "294.",
+    "applicationNumber": "3-El Dorado County-2",
+    "implementingAgencyName": "El Dorado County",
+    "projectName": "El Dorado Trail / Missouri Flat Road Bicycle/Pedestrian Overcrossing",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "295.",
+    "applicationNumber": "3-Folsom, City of-3",
+    "implementingAgencyName": "Folsom, City of",
+    "projectName": "Historic District Connectivity Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "296.",
+    "applicationNumber": "6-Tulare County-5",
+    "implementingAgencyName": "Tulare County",
+    "projectName": "East Porterville Pedestrian Improvements Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "297.",
+    "applicationNumber": "6-Fresno, City of-4",
+    "implementingAgencyName": "Fresno, City of",
+    "projectName": "Williams Elementary Safe Routes to School",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "298.",
+    "applicationNumber": "6-Bakersfield, City of-3",
+    "implementingAgencyName": "Bakersfield, City of",
+    "projectName": "H Street Corrior (SR-204 to Hwy 58)",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "299.",
+    "applicationNumber": "1-Mendocino County-1",
+    "implementingAgencyName": "Mendocino County",
+    "projectName": "Covelo/ Round Valley Safe Routes to School",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "300.",
+    "applicationNumber": "8-Coachella, City of-1",
+    "implementingAgencyName": "Coachella, City of",
+    "projectName": "Connecting Coachella",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "301.",
+    "applicationNumber": "4-Concord, City of-2",
+    "implementingAgencyName": "Concord, City of",
+    "projectName": "Pine Hollow Road Complete Streets Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "302.",
+    "applicationNumber": "8-Riverside County-7",
+    "implementingAgencyName": "Riverside County",
+    "projectName": "Riverside County Safe Routes for All- City of Moreno Valley",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "303.",
+    "applicationNumber": "3-El Dorado County-5",
+    "implementingAgencyName": "El Dorado County",
+    "projectName": "Fallen Leaf Road Recreational Access Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "304.",
+    "applicationNumber": "4-Milpitas, City of-1",
+    "implementingAgencyName": "Milpitas, City of",
+    "projectName": "Montague Expressway Pedestrian Overcrossing",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "305.",
+    "applicationNumber": "6-Bakersfield, City of-7",
+    "implementingAgencyName": "Bakersfield, City of",
+    "projectName": "Bakersfield Bicycle Facilities",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "306.",
+    "applicationNumber": "10-San Joaquin Council of Governments-1",
+    "implementingAgencyName": "San Joaquin Council of Governments",
+    "projectName": "Regional Bicycle, Pedestrian, and Safe Routes to School Master Plan",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "307.",
+    "applicationNumber": "6-Bakersfield, City of-8",
+    "implementingAgencyName": "Bakersfield, City of",
+    "projectName": "School Flashing Yellow Beacons",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "308.",
+    "applicationNumber": "4-Benicia, City of-1",
+    "implementingAgencyName": "Benicia, City of",
+    "projectName": "ATP Cycle 6 Safe Routes to School Improvements Project #22-07",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "309.",
+    "applicationNumber": "6-Tulare County-3",
+    "implementingAgencyName": "Tulare County",
+    "projectName": "Earlimart Intermodal Enhancement Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "310.",
+    "applicationNumber": "7-Ventura, City of-1",
+    "implementingAgencyName": "Ventura, City of",
+    "projectName": "Santa Paula Trail, East Ventura Station to e/o Wells Road",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "311.",
+    "applicationNumber": "7-San Gabriel Valley Council of Governments-1",
+    "implementingAgencyName": "San Gabriel Valley Council of Governments",
+    "projectName": "Pomona Safe and Active: Bike/Ped Safety Improvements & Gap Closure",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "312.",
+    "applicationNumber": "3-Paradise, Town of-5",
+    "implementingAgencyName": "Paradise, Town of",
+    "projectName": "Go Paradise: YKHT Western Spur",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "313.",
+    "applicationNumber": "4-Napa County-1",
+    "implementingAgencyName": "Napa County",
+    "projectName": "The Napa Valley Vine Trail Gap Closure Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "314.",
+    "applicationNumber": "6-Woodlake, City of-1",
+    "implementingAgencyName": "Woodlake, City of",
+    "projectName": "West Sequoia Avenue Multi-modal Improvements Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "315.",
+    "applicationNumber": "6-Fresno, City of-5",
+    "implementingAgencyName": "Fresno, City of",
+    "projectName": "Palm Bikeway to the San Joaquin River Parkway",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "316.",
+    "applicationNumber": "8-Riverside, City of-4",
+    "implementingAgencyName": "Riverside, City of",
+    "projectName": "Riverside Civil Rights Walk",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "317.",
+    "applicationNumber": "10-Stockton, City of-1",
+    "implementingAgencyName": "Stockton, City of",
+    "projectName": "Alpine Pershing Mendocino Bicycle-Pedestrian Connectivity",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "318.",
+    "applicationNumber": "3-Paradise, Town of-4",
+    "implementingAgencyName": "Paradise, Town of",
+    "projectName": "Go Paradise: Pentz Student Pathway",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "319.",
+    "applicationNumber": "3-Elk Grove, City of-1",
+    "implementingAgencyName": "Elk Grove, City of",
+    "projectName": "Laguna Creek Inter-Regional Trail SR 99 Overcrossing and Gap Closure",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "320.",
+    "applicationNumber": "7-Downey, City of-1",
+    "implementingAgencyName": "Downey, City of",
+    "projectName": "South Downey Safe Routes to School Phase II Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "321.",
+    "applicationNumber": "7-Los Angeles, City of-4",
+    "implementingAgencyName": "Los Angeles, City of",
+    "projectName": "Normandie Beautiful: Creating Neighborhood Connections in South LA",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "322.",
+    "applicationNumber": "8-Eastvale, City of-1",
+    "implementingAgencyName": "Eastvale, City of",
+    "projectName": "Bike Network Gap Closure & Class I Connectivity in Eastvale",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "323.",
+    "applicationNumber": "6-Bakersfield, City of-5",
+    "implementingAgencyName": "Bakersfield, City of",
+    "projectName": "California Avenue (Oleander Avenue to R Street)",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "324.",
+    "applicationNumber": "6-Visalia, City of-3",
+    "implementingAgencyName": "Visalia, City of",
+    "projectName": "Santa Fe Cycle Track - Class IV Bike Route",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "325.",
+    "applicationNumber": "10-Calaveras County-1",
+    "implementingAgencyName": "Calaveras County",
+    "projectName": "San Andreas Pope Street and Safe Routes to School Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "326.",
+    "applicationNumber": "11-San Diego, City of-6",
+    "implementingAgencyName": "San Diego, City of",
+    "projectName": "Accessibility Safety Plan for Individuals with Disabilities in Disadvantaged Comm",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "327.",
+    "applicationNumber": "12-Orange County-2",
+    "implementingAgencyName": "Orange County",
+    "projectName": "OC Loop Segment P",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "328.",
+    "applicationNumber": "8-Riverside County-6",
+    "implementingAgencyName": "Riverside County",
+    "projectName": "Riverside County Safe Routes for All - Cathedral City",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "329.",
+    "applicationNumber": "8-Redlands, City of-1",
+    "implementingAgencyName": "Redlands, City of",
+    "projectName": "Orange Blossom Trail Phase IV",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "330.",
+    "applicationNumber": "5-Monterey, City of-1",
+    "implementingAgencyName": "Monterey, City of",
+    "projectName": "Del Monte/Washington and Del Monte/El Estero Bike and Pedestrian Improvemen",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "331.",
+    "applicationNumber": "6-Visalia, City of-2",
+    "implementingAgencyName": "Visalia, City of",
+    "projectName": "Houston Community Connectivity Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "332.",
+    "applicationNumber": "10-Stockton, City of-2",
+    "implementingAgencyName": "Stockton, City of",
+    "projectName": "Active Alpine Avenue for All",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "333.",
+    "applicationNumber": "6-Kern County - D6-5",
+    "implementingAgencyName": "Kern County - D6",
+    "projectName": "Safe Route To School (SRTS) ADA Crosswalk Safety",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "334.",
+    "applicationNumber": "11-San Diego County-1",
+    "implementingAgencyName": "San Diego County",
+    "projectName": "Stage Coach Lane Multi-Use Pathway",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "335.",
+    "applicationNumber": "7-Commerce, City of-1",
+    "implementingAgencyName": "Commerce, City of",
+    "projectName": "Slauson Avenue Corridor & Citywide Pedestrian, Bike, Transit Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "336.",
+    "applicationNumber": "7-Calabasas, City of-1",
+    "implementingAgencyName": "Calabasas, City of",
+    "projectName": "Mulholland Highway School Safety Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "337.",
+    "applicationNumber": "7-El Monte, City of-1",
+    "implementingAgencyName": "El Monte, City of",
+    "projectName": "Traffic Calming for Parkway Dr/Denholm Dr",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "338.",
+    "applicationNumber": "7-West Covina, City of-1",
+    "implementingAgencyName": "West Covina, City of",
+    "projectName": "West Covina Safe Routes to School & Pedestrian Safety Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "339.",
+    "applicationNumber": "12-Orange County-3",
+    "implementingAgencyName": "Orange County",
+    "projectName": "OC Loop Segment Q",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "340.",
+    "applicationNumber": "3-Paradise, Town of-2",
+    "implementingAgencyName": "Paradise, Town of",
+    "projectName": "Go Paradise: Neal Gateway Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "341.",
+    "applicationNumber": "7-Bell Gardens, City of-1",
+    "implementingAgencyName": "Bell Gardens, City of",
+    "projectName": "Bell Gardens Complete Streets Improvements - Phase 2",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "342.",
+    "applicationNumber": "5-Santa Barbara County-3",
+    "implementingAgencyName": "Santa Barbara County",
+    "projectName": "Cathedral Oaks Road Complete Streets Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "343.",
+    "applicationNumber": "7-Pico Rivera, City of-1",
+    "implementingAgencyName": "Pico Rivera, City of",
+    "projectName": "Pico Rivera Active Transportation Master Plan",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "344.",
+    "applicationNumber": "4-Concord, City of-3",
+    "implementingAgencyName": "Concord, City of",
+    "projectName": "MONUMENT BOULEVARD MULTIMODAL CORRIDOR",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "345.",
+    "applicationNumber": "11-Imperial Beach, City of-1",
+    "implementingAgencyName": "Imperial Beach, City of",
+    "projectName": "Palm Avenue Complete Multimodal Corridor",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "346.",
+    "applicationNumber": "7-Los Angeles, City of-7",
+    "implementingAgencyName": "Los Angeles, City of",
+    "projectName": "LA River Greenway, East San Fernando Valley Gap Closure",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "347.",
+    "applicationNumber": "10-Manteca, City of-1",
+    "implementingAgencyName": "Manteca, City of",
+    "projectName": "Manteca Safe Route To School - Pedestrian Safety Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "348.",
+    "applicationNumber": "7-Diamond Bar, City of-1",
+    "implementingAgencyName": "Diamond Bar, City of",
+    "projectName": "Diamond Bar Boulevard Complete Streets Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "349.",
+    "applicationNumber": "4-San Jose, City of-1",
+    "implementingAgencyName": "San Jose, City of",
+    "projectName": "Story-Keyes Bikeway Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "350.",
+    "applicationNumber": "7-South Gate, City of-2",
+    "implementingAgencyName": "South Gate, City of",
+    "projectName": "WSAB LRT Stations First-Last Mile Bikeway Safety and Access Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "351.",
+    "applicationNumber": "12-Fullerton, City of-1",
+    "implementingAgencyName": "Fullerton, City of",
+    "projectName": "Bridging the Gap: Nutwood Avenue Bicycle and Pedestrian Mobility Enhancement",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "352.",
+    "applicationNumber": "8-Menifee, City of-2",
+    "implementingAgencyName": "Menifee, City of",
+    "projectName": "Romoland Elementary Safe Routes to School",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "353.",
+    "applicationNumber": "8-Riverside County-5",
+    "implementingAgencyName": "Riverside County",
+    "projectName": "Riverside County Safe Routes for All - Palm Springs",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "354.",
+    "applicationNumber": "11-San Diego, City of-2",
+    "implementingAgencyName": "San Diego, City of",
+    "projectName": "Mid-City Communities Comprehensive Active Transportation Plan",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "355.",
+    "applicationNumber": "2-Redding, City of-2",
+    "implementingAgencyName": "Redding, City of",
+    "projectName": "Victor Improvement Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "356.",
+    "applicationNumber": "12-La Habra, City of-1",
+    "implementingAgencyName": "La Habra, City of",
+    "projectName": "La Habra Rails to Trail OC Loop Gap Closure",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "357.",
+    "applicationNumber": "5-Monterey County-5",
+    "implementingAgencyName": "Monterey County",
+    "projectName": "Carmel Valley Road Safety Improvement Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "358.",
+    "applicationNumber": "4-Half Moon Bay, City of-2",
+    "implementingAgencyName": "Half Moon Bay, City of",
+    "projectName": "Eastside Parallel Trail South (Higgins Canyon to Miramontes Point)",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "359.",
+    "applicationNumber": "4-Moraga, Town of-1",
+    "implementingAgencyName": "Moraga, Town of",
+    "projectName": "Moraga Rd and Canyon Rd Complete Streets",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "360.",
+    "applicationNumber": "4-San Mateo County-1",
+    "implementingAgencyName": "San Mateo County",
+    "projectName": "Santa Cruz Avenue/Alameda de las Pulgas Complete Street Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "361.",
+    "applicationNumber": "6-California Department of Transportation-1",
+    "implementingAgencyName": "California Department of Transportation",
+    "projectName": "City of Arvin HAWK- Arvin's \"Walk on Walnut Crosswalk Beacon\"",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "362.",
+    "applicationNumber": "7-Lancaster, City of-1",
+    "implementingAgencyName": "Lancaster, City of",
+    "projectName": "City of Lancaster 5th Street Corridor School Connections Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "363.",
+    "applicationNumber": "7-Industry, City of-1",
+    "implementingAgencyName": "Industry, City of",
+    "projectName": "East-West Bikeway Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "365.",
+    "applicationNumber": "8-Menifee, City of-1",
+    "implementingAgencyName": "Menifee, City of",
+    "projectName": "Harvest Valley Elementary Safe Routes to School",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "366.",
+    "applicationNumber": "8-Wildomar, City of-2",
+    "implementingAgencyName": "Wildomar, City of",
+    "projectName": "Mission Trail Sedco Neighborhood Active Transportation Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "367.",
+    "applicationNumber": "7-South Gate, City of-1",
+    "implementingAgencyName": "South Gate, City of",
+    "projectName": "Tweedy Boulevard Complete Streets, Phase II",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "368.",
+    "applicationNumber": "4-Emeryville, City of-2",
+    "implementingAgencyName": "Emeryville, City of",
+    "projectName": "40th Street Protected Bikeway and Pedestrian Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "369.",
+    "applicationNumber": "11-Imperial, City of-1",
+    "implementingAgencyName": "Imperial, City of",
+    "projectName": "SR 86 Multimodal Gap Closure: Aten to Wall Road",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "370.",
+    "applicationNumber": "6-Selma, City of-1",
+    "implementingAgencyName": "Selma, City of",
+    "projectName": "Rose Avenue Bike Path and Sidewalk Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "371.",
+    "applicationNumber": "7-Los Angeles, City of-10",
+    "implementingAgencyName": "Los Angeles, City of",
+    "projectName": "SRTS Center City Schools Neighborhood Safety & Climate Resilience Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "372.",
+    "applicationNumber": "7-Los Angeles, City of-6",
+    "implementingAgencyName": "Los Angeles, City of",
+    "projectName": "Hollywood Walk of Fame Safety and Connectivity Project: Phase 1",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "373.",
+    "applicationNumber": "11-San Diego, City of-1",
+    "implementingAgencyName": "San Diego, City of",
+    "projectName": "City of San Diego Bicycle Master Plan Update",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "374.",
+    "applicationNumber": "4-Half Moon Bay, City of-1",
+    "implementingAgencyName": "Half Moon Bay, City of",
+    "projectName": "Eastside Parallel Trail North: Segment 2 (Spindrift to Ruisseau Francais)",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "375.",
+    "applicationNumber": "6-Kern County - D6-4",
+    "implementingAgencyName": "Kern County - D6",
+    "projectName": "Kern River Parkway Multi-use Path Safety & Connectivity Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "376.",
+    "applicationNumber": "7-Thousand Oaks, City of-1",
+    "implementingAgencyName": "Thousand Oaks, City of",
+    "projectName": "Lynn Road Bike Lanes and Pedestrain Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "377.",
+    "applicationNumber": "2-Redding, City of-1",
+    "implementingAgencyName": "Redding, City of",
+    "projectName": "Butte Street Boogie Network Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "378.",
+    "applicationNumber": "7-Signal Hill, City of-1",
+    "implementingAgencyName": "Signal Hill, City of",
+    "projectName": "E. Burnett Street Historical District Pedestrian and Bike Enhancement Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "379.",
+    "applicationNumber": "6-Tulare County Association of Governments-1",
+    "implementingAgencyName": "Tulare County Association of Governments",
+    "projectName": "Tule River Tribe Complete Streets and Two Pedestrian Bridges Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "380.",
+    "applicationNumber": "5-Santa Cruz Health Services Agency-2",
+    "implementingAgencyName": "Santa Cruz Health Services Agency",
+    "projectName": "Safe Routes for Watsonville School Families and Community",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "381.",
+    "applicationNumber": "6-Corcoran, City of-1",
+    "implementingAgencyName": "Corcoran, City of",
+    "projectName": "City of Corcoran Equitable Health, Safety & Connectivity Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "382.",
+    "applicationNumber": "6-Parlier, City of-1",
+    "implementingAgencyName": "Parlier, City of",
+    "projectName": "City of Parlier Limitless Lane Network",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "383.",
+    "applicationNumber": "1-Eureka, City of-2",
+    "implementingAgencyName": "Eureka, City of",
+    "projectName": "C Street Bike Boulevard",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "384.",
+    "applicationNumber": "9-Bishop, City of-1",
+    "implementingAgencyName": "Bishop, City of",
+    "projectName": "Sierra Street Bicycle Path Rehabilitation",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "385.",
+    "applicationNumber": "4-San Jose, City of-2",
+    "implementingAgencyName": "San Jose, City of",
+    "projectName": "Julian Street-Guadalupe Trail Connection",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "386.",
+    "applicationNumber": "7-South El Monte, City of-1",
+    "implementingAgencyName": "South El Monte, City of",
+    "projectName": "Merced Avenue Greenway",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "387.",
+    "applicationNumber": "4-San Jose, City of-3",
+    "implementingAgencyName": "San Jose, City of",
+    "projectName": "2nd & 3rd Street De-Coupling and Complete Streets Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "388.",
+    "applicationNumber": "2-Redding, City of-3",
+    "implementingAgencyName": "Redding, City of",
+    "projectName": "Hilltop Improvement Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "389.",
+    "applicationNumber": "7-Lancaster, City of-2",
+    "implementingAgencyName": "Lancaster, City of",
+    "projectName": "Lancaster SRTS Master Plan - Refresh, Rebuild, Recruit, Sustain",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "390.",
+    "applicationNumber": "7-Cudahy, City of-1",
+    "implementingAgencyName": "Cudahy, City of",
+    "projectName": "Salt Lake Avenue Pedestrian Accessibility Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "391.",
+    "applicationNumber": "8-Colton, City of-1",
+    "implementingAgencyName": "Colton, City of",
+    "projectName": "WIlliam McKinley Elementary ES Safe Route to School Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "392.",
+    "applicationNumber": "7-Los Angeles, City of-1",
+    "implementingAgencyName": "Los Angeles, City of",
+    "projectName": "Osborne Street: Path to Park Access Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "393.",
+    "applicationNumber": "11-Imperial County Transportation Commission-1",
+    "implementingAgencyName": "Imperial County Transportation Commission",
+    "projectName": "Pedestrian Improvements for the Calexico Intermodal Transportation Center",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "394.",
+    "applicationNumber": "7-Los Angeles, City of-5",
+    "implementingAgencyName": "Los Angeles, City of",
+    "projectName": "Wilmington Safe Streets: A People First Approach",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "395.",
+    "applicationNumber": "10-Merced County-1",
+    "implementingAgencyName": "Merced County",
+    "projectName": "Valeria Street & Bryant Avenue Shared-Use Bike-Pedestrian Path",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "396.",
+    "applicationNumber": "2-Susanville, City of-1",
+    "implementingAgencyName": "Susanville, City of",
+    "projectName": "Riverside Drive Pedestrian and Bike Trail Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "397.",
+    "applicationNumber": "6-Fresno County-1",
+    "implementingAgencyName": "Fresno County",
+    "projectName": "Del Rey Sidewalk Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "398.",
+    "applicationNumber": "6-Fresno County-2",
+    "implementingAgencyName": "Fresno County",
+    "projectName": "Tranquillity Sidewalk Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "399.",
+    "applicationNumber": "6-Fresno County-3",
+    "implementingAgencyName": "Fresno County",
+    "projectName": "Calwa Sidewalk Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "400.",
+    "applicationNumber": "6-Fresno County-4",
+    "implementingAgencyName": "Fresno County",
+    "projectName": "Cantua Creek and El Porvenir (Three Rocks) Sidewalk Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "401.",
+    "applicationNumber": "4-Berkeley, City of-1",
+    "implementingAgencyName": "Berkeley, City of",
+    "projectName": "Addison Street Bicycle Boulevard Extension Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "402.",
+    "applicationNumber": "5-Santa Barbara County-2",
+    "implementingAgencyName": "Santa Barbara County",
+    "projectName": "Isla Vista Bike and Pedestrian Improvements Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "403.",
+    "applicationNumber": "5-Monterey Salinas Transit-1",
+    "implementingAgencyName": "Monterey Salinas Transit",
+    "projectName": "SURF! Busway and BRT Active Transportation Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "404.",
+    "applicationNumber": "5-Santa Barbara County-1",
+    "implementingAgencyName": "Santa Barbara County",
+    "projectName": "Old Town Orcutt Streetscape and Safety Enhancements Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "405.",
+    "applicationNumber": "7-Simi Valley, City of-2",
+    "implementingAgencyName": "Simi Valley, City of",
+    "projectName": "Arroyo Simi Greenway Phase 5 AP#2",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "406.",
+    "applicationNumber": "4-Alameda, City of-1",
+    "implementingAgencyName": "Alameda, City of",
+    "projectName": "Willie Stargell Avenue Safety Improvements Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "407.",
+    "applicationNumber": "4-Gilroy, City of-1",
+    "implementingAgencyName": "Gilroy, City of",
+    "projectName": "Monterey Rd Bicycle and Pedestrian Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "408.",
+    "applicationNumber": "7-Fillmore, City of-1",
+    "implementingAgencyName": "Fillmore, City of",
+    "projectName": "City of Fillmore Active Transportation Program Needs Assessment",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "409.",
+    "applicationNumber": "4-Santa Clara County-1",
+    "implementingAgencyName": "Santa Clara County",
+    "projectName": "Meadow Lane Sidewalk Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "410.",
+    "applicationNumber": "3-South Lake Tahoe, City of-1",
+    "implementingAgencyName": "South Lake Tahoe, City of",
+    "projectName": "Pioneer Trail Pedestrian Improvement Project Phase 2",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "411.",
+    "applicationNumber": "1-Eureka, City of-1",
+    "implementingAgencyName": "Eureka, City of",
+    "projectName": "Bay to Zoo Trail",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "412.",
+    "applicationNumber": "6-Madera, City of-1",
+    "implementingAgencyName": "Madera, City of",
+    "projectName": "Madera Citywide Safe Routes to School Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "413.",
+    "applicationNumber": "3-Folsom, City of-1",
+    "implementingAgencyName": "Folsom, City of",
+    "projectName": "Folsom-Placerville Rail Trail Gap Closure Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "414.",
+    "applicationNumber": "4-San Pablo, City of-1",
+    "implementingAgencyName": "San Pablo, City of",
+    "projectName": "Broadway-El Portal Safe Routes Project, City of San Pablo",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "415.",
+    "applicationNumber": "4-Oakland, City of-1",
+    "implementingAgencyName": "Oakland, City of",
+    "projectName": "Bancroft Avenue Greenway",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "416.",
+    "applicationNumber": "7-Los Angeles, City of-8",
+    "implementingAgencyName": "Los Angeles, City of",
+    "projectName": "Boyle Heights Community Connectivity Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "417.",
+    "applicationNumber": "3-Sacramento, City of-1",
+    "implementingAgencyName": "Sacramento, City of",
+    "projectName": "Franklin Boulevard Complete Street - Phase 3",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "418.",
+    "applicationNumber": "10-Calaveras County-2",
+    "implementingAgencyName": "Calaveras County",
+    "projectName": "Murphys State Route 4 Complete Streets ATP application",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "419.",
+    "applicationNumber": "5-Santa Maria, City of-1",
+    "implementingAgencyName": "Santa Maria, City of",
+    "projectName": "Active Santa Maria Safe Routes to School Corridor Improvements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "420.",
+    "applicationNumber": "7-Maywood, City of-1",
+    "implementingAgencyName": "Maywood, City of",
+    "projectName": "Randolph Street Bike and Facilities Improvement Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "421.",
+    "applicationNumber": "5-Salinas, City of-1",
+    "implementingAgencyName": "Salinas, City of",
+    "projectName": "Harden Parkway Path & Safe Routes to School project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "422.",
+    "applicationNumber": "5-King City, City of-1",
+    "implementingAgencyName": "King City, City of",
+    "projectName": "San Antonio Drive Path & Safe Routes to Schools",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "423.",
+    "applicationNumber": "4-Oakland, City of-2",
+    "implementingAgencyName": "Oakland, City of",
+    "projectName": "73rd Avenue Active Routes to Transit",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "424.",
+    "applicationNumber": "4-Sonoma County-2",
+    "implementingAgencyName": "Sonoma County",
+    "projectName": "West Sebastopol Bicycle Connectivity and Pedestrian Enhancements",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "425.",
+    "applicationNumber": "5-Transportation Agency for Monterey County-1",
+    "implementingAgencyName": "Transportation Agency for Monterey County",
+    "projectName": "Fort Ord Regional Trail and Greenway: California Avenue Segment",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "426.",
+    "applicationNumber": "4-Moraga, Town of-2",
+    "implementingAgencyName": "Moraga, Town of",
+    "projectName": "Camino Pablo Pedestrian and Bicycle Improvement Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "427.",
+    "applicationNumber": "7-Colburn School-1",
+    "implementingAgencyName": "Colburn School",
+    "projectName": "Colburn School Pedestrian Passageway Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "428.",
+    "applicationNumber": "7-Carson, City of-1",
+    "implementingAgencyName": "Carson, City of",
+    "projectName": "City of Carson Master Bicycle Plan",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "429.",
+    "applicationNumber": "7-Azusa, City of-1",
+    "implementingAgencyName": "Azusa, City of",
+    "projectName": "East 1st Street and Baseline Road Street Improvements Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "430.",
+    "applicationNumber": "10-Tracy, City of-1",
+    "implementingAgencyName": "Tracy, City of",
+    "projectName": "East Schulte Safety and Multimodal Community Corridor",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "431.",
+    "applicationNumber": "7-City of Los Angeles, City of-9",
+    "implementingAgencyName": "City of Los Angeles, City of",
+    "projectName": "Skid Row Connectivity and Safety Project",
+    "receivedDate": "6/15/2022"
+  },
+  {
+    "applicationID": "432.",
+    "applicationNumber": "7-Downey, City of-2",
+    "implementingAgencyName": "Downey, City of",
+    "projectName": "Greenway Traffic Circle Improvement Project on Rives Avenue",
+    "receivedDate": "6/15/2022"
+  }
+]
